@@ -1,4 +1,4 @@
-# twitter-edchat
-Various analyses of Twitter #Edchat
+# Edchat Top Contributors
+Analysis of most frequent contributors to Twitter #Edchat 
 
 ## NOTES
